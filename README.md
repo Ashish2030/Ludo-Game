@@ -1,5 +1,5 @@
 <h1 align="center">Ludo_Game(Snakes_and_Ladders)</h1>
-This is CMD based Game where your opposite player is computer .. Lets See who will win
+<p align="center"> This is CMD based Game where your opposite player is computer .. Lets See who will win<p><br>
 <a href="https://github.com/ashish2030/Ludo-Game/fork" target="blank">
 
 <p align="center">
