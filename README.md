@@ -17,7 +17,7 @@
   </p>
 <p align="center"><img src="https://github.com/Ashish2030/Ludo-Game/blob/main/image/important.gif" ></p>
 <p align="center">
-    <a href="https://ashish2030.github.io/Ludo-Game/Calculator.html" target="blank">View Demo</a>
+    <a href="https://github.com/Ashish2030/Ludo-Game" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ashish2030/Ludo-Game/issues/new/choose">Report Bug</a>
     ·
